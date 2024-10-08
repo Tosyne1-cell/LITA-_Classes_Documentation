@@ -53,6 +53,7 @@ EDA involves the exporing of Data to answer some questions about the data use su
 - What is the Stafe state of origin?
 - The total Number of staff?
 - What is the salarry of Each staff?
+- What age fits in each managerial position?
 
   ### Data Analysis: This is where we include some basic lines of code or queries during our analysis;
   ---
