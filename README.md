@@ -20,6 +20,15 @@ The primary source of Data used here is Data Sale, CVS and this is an open sourc
 
 ###  For Data Cleaning and Preparations
 In the initial phase of the Data Cleaning and Preparations, we perfprm the following actrion;
-i. Data loading and inspection
-ii. Handling missing variables 
-iii. Data Cleaning and and Formatting
+1. Data loading and inspection
+2. Handling missing variables
+3. . Data Cleaning and and Formatting
+
+### Exploring Data Analysis 
+EDA involves the exporing of Data to answer some questions about the data use such as;
+
+-What is the staff ID
+-What is the Stafe state of origin
+-The total Number of staff
+-What is the salarry of Each staff?
+
