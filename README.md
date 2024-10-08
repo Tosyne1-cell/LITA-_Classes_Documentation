@@ -2,6 +2,23 @@
 
 ### Project Tittle: My journey  so far in The world of Data Analysis
 ---
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+ [Exploring Data Analysis](#exploring-data-analysis)
+
+ [Data Analysis](data-analysis)
+
+ [Data visualization](#data-visualization)
+
+ [Creating Emojis ](#creating-emojis)
+
+ [Table Creation](#table-creation)
 
 ### Project Overview
 ---
@@ -21,7 +38,7 @@ The primary source of Data used here is Data Sale, CVS and this is an open sourc
 - SQL - Structuered Query Language for Quering Data
 - GitHub for portfolio Building
 
-###  For Data Cleaning and Preparations
+### Data Cleaning and Preparations
 ---
 In the initial phase of the Data Cleaning and Preparations, we perfprm the following actrion;
 1. Data loading and inspection
@@ -48,10 +65,26 @@ EDA involves the exporing of Data to answer some questions about the data use su
 
 ![SQL (2)](https://github.com/user-attachments/assets/e570b44e-d344-4f65-8d10-c8f992e1476d)
 
+
+![SQL](https://github.com/user-attachments/assets/89fd4265-225e-4539-bd54-05d8bb4a4b6c)
+
+
 ![pivot table file](https://github.com/user-attachments/assets/94db2218-faac-405a-bbad-672587712224)
 
+
  ![chat extract from pivot table](https://github.com/user-attachments/assets/8c659e86-bf03-4737-a072-5d731aa5f0f5)
+ 
 
 ![data validation](https://github.com/user-attachments/assets/90570b79-af72-40c5-b637-aadd0d3cdfae)
+
+### Creating Emojis 
+🥇
+📶
+
+### Table Creation 
+| Heading 1| Heading 2| Heading 3|
+| ---------| ---------| ---------|
+|   Table 1|   Table 2|   Table 3|
+
 
 
