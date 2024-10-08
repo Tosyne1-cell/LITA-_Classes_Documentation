@@ -44,5 +44,14 @@ EDA involves the exporing of Data to answer some questions about the data use su
  WHERE AB2000 = TOLA
 ```
 
-  
+### Data visualization
+
+![SQL (2)](https://github.com/user-attachments/assets/e570b44e-d344-4f65-8d10-c8f992e1476d)
+
+![pivot table file](https://github.com/user-attachments/assets/94db2218-faac-405a-bbad-672587712224)
+
+ ![chat extract from pivot table](https://github.com/user-attachments/assets/8c659e86-bf03-4737-a072-5d731aa5f0f5)
+
+![data validation](https://github.com/user-attachments/assets/90570b79-af72-40c5-b637-aadd0d3cdfae)
+
 
